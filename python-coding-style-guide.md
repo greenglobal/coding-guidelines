@@ -23,7 +23,7 @@ In summary, here are  the most important rules we need to remember:
 - **Shebang**: always begin with `#!/usr/bin/env python3`
 - **File encoding**: UTF-8
 - **Indentation**: 4 spaces
-- **Maximum line length**: 120
+- **Maximum line length**: 79
 - **Comments**: start with `#`, line by line
 -  **Naming conventions**: `CamelCase` for Class name, `UPPERCASE` for constants, otherwise, `lowercase` and `under_score`
 
