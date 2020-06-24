@@ -37,7 +37,7 @@ PEP8 có cả 1 danh sách dài các quy tắc, nhưng đây là những điều
 - **Shebang**: luôn bắt đầu file với `#!/usr/bin/env python3`
 - **File encoding**: UTF-8
 - **Indentation**: 4 spaces
-- **Maximum line length**: 79
+- **Maximum line length**: 120
 - **Comments**: bắt đầu với `#`, từng hàng một
 - **Single quote**: luôn quote bằng nháy đơn khi có thể
 -  **Naming conventions**: `CamelCase` for Class name, `UPPERCASE` for constants, otherwise, `lowercase` and `under_score`
